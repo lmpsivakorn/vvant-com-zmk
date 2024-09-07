@@ -12,7 +12,6 @@
     chain-length = <27>;
     // 21 backlight + 6 glowlight
 };
-
 / {
         keymap {
                 compatible = "zmk,keymap";
